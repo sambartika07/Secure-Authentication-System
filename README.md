@@ -1,8 +1,8 @@
-# Secure Authentication System
+# 🔐Secure Authentication System
 
 A secure authentication system built using Flask, PostgreSQL, bcrypt, and JWT Authentication.
 
-## Features
+## ✨Features
 
 * User Registration
 * User Login
@@ -12,7 +12,7 @@ A secure authentication system built using Flask, PostgreSQL, bcrypt, and JWT Au
 * Secure Dashboard
 * Modern User Interface
 
-## Technologies Used
+## 🛠️Technologies Used
 
 * Python
 * Flask
@@ -22,7 +22,7 @@ A secure authentication system built using Flask, PostgreSQL, bcrypt, and JWT Au
 * bcrypt
 * PyJWT
 
-## Project Structure
+## 📊Project Structure
 
 Secure-Authentication-System
 
@@ -41,7 +41,20 @@ Secure-Authentication-System
 │   └── style.css
 
 └── requirements.txt
+## 📸 Screenshots
 
-## Author
+###  🔒Login Page
+![Login Page](login.png)
+
+### 👤 Register Page
+![Register Page](register.png)
+
+### 📊 Dashboard
+![Dashboard](dashboard.png)
+
+### 🗄️ PostgreSQL Database
+![Database](database.png)
+
+## 👩‍💻Author
 
 Sambartika Jayasingh
